@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 - 🤖 I build **AI-powered web apps** — chat-with-your-PDF tools, resume analyzers, and study assistants.
-- 🎓 **MCA student**, learning **full-stack development + AI / RAG** by shipping real products.
+- 🎓 **MCA student at KIET, Ghaziabad** — learning **full-stack development + AI / RAG** by shipping real products.
 - 🌱 Currently going deeper into **Next.js, Retrieval-Augmented Generation, and the Google Gemini API**.
 - 🛠️ I have **two live apps** in production — an AI study assistant and an AI resume analyzer (see below 👇).
 - 💬 Ask me about **Next.js, Flask, or building with LLMs**.
@@ -105,12 +105,12 @@
 ### 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/priyam-sharma-53454b222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/priyam2503"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <!--
-  📩 Send Priyam's links and these get switched on:
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  📩 Send Priyam's remaining links and these get switched on:
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://twitter.com/HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
