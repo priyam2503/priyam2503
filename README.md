@@ -64,40 +64,52 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/priyam2503/ai-campus-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyam2503&repo=ai-campus-app&theme=tokyonight&hide_border=true" alt="AI Campus" />
-  </a>
-  <a href="https://github.com/priyam2503/smart-ats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyam2503&repo=smart-ats&theme=tokyonight&hide_border=true" alt="Smart ATS" />
-  </a>
-</p>
-
-<p align="center">
-  🎓 <b>AI Campus</b> — chat with your PDFs (RAG) · <a href="https://ai-campus-app-teal.vercel.app">Live Demo</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  📄 <b>Smart ATS</b> — AI resume analyzer · <a href="https://smart-ats-shlf.onrender.com">Live Demo</a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 AI Campus</h3>
+      <p>Chat-with-your-PDF study assistant — upload a PDF, the AI reads it and answers questions grounded in <em>your</em> document, with citations (RAG).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://ai-campus-app-teal.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/priyam2503/ai-campus-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Smart ATS</h3>
+      <p>AI résumé analyzer — scores your résumé against any job description, flags missing keywords, and suggests honest, ATS-friendly fixes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://smart-ats-shlf.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
+        <a href="https://github.com/priyam2503/smart-ats"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyam2503&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam2503&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://img.shields.io/github/followers/priyam2503?style=for-the-badge&logo=github&label=Followers&color=7AA2F7&labelColor=1a1b27" />
+  <img src="https://img.shields.io/github/stars/priyam2503?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=7AA2F7&labelColor=1a1b27" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyam2503&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=priyam2503&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyam2503&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyam2503&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyam2503&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph" />
 </p>
 
 ---
